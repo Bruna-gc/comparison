@@ -1,0 +1,11 @@
+add this directory to a repository in GitHUb:
+
+ git remote add origin https://github.com/Bruna-gc/comparison.git
+ git emote -v
+ git push -u origin master
+
+ADD FILE TO .GIT REPOSITORY
+git add . <fileName>
+
+CHANGE .GIT FILE
+git commit -m "beta gamma" <what you wnat to add>
